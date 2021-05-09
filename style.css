@@ -1,0 +1,46 @@
+.D{
+    margin-left: 630px;
+    margin-right: 630px;
+    background-color: rgba(125, 24, 51, 1);
+    height: 1400px;
+}
+.ketto{
+height: 350px;
+width: 250px;
+float: left;
+margin-left: 10px;
+border: solid yellow 7px;
+}
+.egy{
+width: 250px;
+height: 175px;
+border: solid yellow 7px;
+}
+.öt{
+    width: 250px;
+height: 175px;
+border: solid yellow 7px;
+}
+.három{
+    width: 250px;
+    height: 175px;
+    border: solid yellow 7px;
+}
+.hat{
+    width: 250px;
+    height: 175px;
+    border: solid yellow 7px;
+}
+.négy{
+    width: 250px;
+    height: 175px;
+    border: solid yellow 7px;
+}
+.hét{
+    width: 250px;
+    height: 175px;
+    border: solid yellow 7px;
+}
+.Kv{
+    border-bottom: solid white 1px;
+}
